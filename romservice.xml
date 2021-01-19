@@ -4,7 +4,6 @@
   <project name="Broly1/device_motorola_ali" path="device/motorola/ali" remote="github" revision="eleven-wip" />
   <project name="Broly1/device_motorola_msm8953-common" path="device/motorola/msm8953-common" remote="github" revision="eleven-wip" />
   <project name="Broly1/vendor_motorola_ali" path="vendor/motorola/ali" remote="github" revision="eleven-wip" />
-  <project name="Broly1/-external_motorola_faceunlock-" path="external/motorola/faceunlock" remote="github" revision="ten" />
   <project name="Broly1/vendor_motorola_msm8953-common" path="vendor/motorola/msm8953-common" remote="github" revision="eleven-wip" />
   <project name="Broly1/kernel_motorola_msm8953" path="kernel/motorola/msm8953" remote="github" revision="eleven" />
   <project name="Broly1/packages_resources_devicesettings-custom" path="packages/resources/devicesettings-custom" remote="github" revision="eleven" />
